@@ -29,4 +29,4 @@ To run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/dark-side-stylewars.git
+ https://gregarious-florentine-0e4bd9.netlify.app/
